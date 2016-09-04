@@ -1,13 +1,13 @@
 {
-    "english": "англ",
-    "diff_eq": "дифуры",
+    "economics": "эконом",
+	"urmat": "урматы",
+	"algebra": "алгебра",
+	"fop": "фоп",
+	"imir": "имир",
+	"opt": "оптимизация",
+	"bd": "бд",
+	"super": "суперкомпы",
+	"graphics": "графика",
     "practicum": "прак",
-    "pe": "физра",
-    "calculus": "матан",
-    "statistics": "теорвер",
-    "os": "оси",
-    "numerical": "числ. методы",
     "empty": "(ничего)",
-    "physics": "физика",
-    "philosophy": "философия"
 }
